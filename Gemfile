@@ -3,7 +3,7 @@ gem "rspec"
 gem "sinatra"
 gem "octokit"
 gem "hashie"
-gem "awesomeprint"
+gem "awesome_print"
 
 group :development do
 gem "pry"
