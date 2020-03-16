@@ -1,8 +1,8 @@
 source "https://rubygems.org"
 
-gem "Hashie"
-gem "Sinatra"
-gem "Octokit"
+gem "hashie"
+gem "sinatra"
+gem "octokit"
 
 gem "AwesomePrint"
 
