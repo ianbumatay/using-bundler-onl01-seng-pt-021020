@@ -1,5 +1,5 @@
-
-require_relative '../default/environment'
+require_relative '../config/default'
+require_relative '../config/environment'
 
 
 Hashie
