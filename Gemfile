@@ -4,7 +4,7 @@ gem "hashie"
 gem "sinatra"
 gem "octokit"
 
-gem "awesomePrint"
+gem "awesome_print"
 
 
 
